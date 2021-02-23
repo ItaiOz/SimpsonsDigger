@@ -8,6 +8,10 @@ Project has programmed in C++ based on the classic game "Digger", I used efficie
 ## Menu Screen - Either starting the game or reaching the 'about' section
 
 ![s1](https://user-images.githubusercontent.com/72853162/108853792-d10f3380-75ef-11eb-9100-db31e547587a.JPG)
+
+
+
+
 ![s2](https://user-images.githubusercontent.com/72853162/108853797-d1a7ca00-75ef-11eb-856f-95ece35ad869.JPG)
 
 ## Gameplay - Moving objects simulates actual walking thanks to involving animation technique, stats on top screen are based on static variables
