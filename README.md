@@ -17,4 +17,6 @@ Project has programmed in C++ based on the classic game "Digger", I used efficie
 ## Gameplay - Moving objects simulates actual walking thanks to involving animation technique, stats on top screen are based on static variables
 
 ![s3](https://user-images.githubusercontent.com/72853162/108853798-d2406080-75ef-11eb-97a2-3ba37bd578ca.JPG)
+
+
 ![s4](https://user-images.githubusercontent.com/72853162/108853801-d2406080-75ef-11eb-9bcc-d9ccd3b3f35f.JPG)
